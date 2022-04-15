@@ -1,0 +1,19 @@
+{
+  "name": "liferay-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "liferay": "./index.js"
+  },
+  "author": "Mahmoud Hussein Tayem",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.2",
+    "commander": "^9.1.0",
+    "fs-extra": "^10.0.1"
+  }
+}
